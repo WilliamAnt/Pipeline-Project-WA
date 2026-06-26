@@ -1,54 +1,23 @@
-# README Template
+# Udacity Pipeline Project
 
-Below is a template provided for use when building your README file for students.
+The goal of this project is to develop a model that analyzes customer review data—including review text, customer age, product category, and other relevant features—to predict whether a customer would recommend a product. The project leverages machine learning pipelines to integrate and process numerical, categorical, and textual data, enabling accurate recommendation predictions.
 
-# Project Title
 
-Project description goes here.
+## File Description
 
-## Getting Started
+- Udacity-Project One/ World Bank Data Life vs Exp Final2.ipynbFile  Jupyiter Notebook containing data analysis
+- Udacity-Project One/ WBDATA_10  Excel File containing data used for analysis
+- Link to Blog Post on Medium: https://medium.com/@william.anthony_2118/does-money-buy-more-years-after-60-a-global-look-54811777acbe
 
-Instructions for how to get a copy of the project running on your local machine.
+## Libraries Used
+The following python libraries were using in this project
 
-### Dependencies
+- pandas==2.2.2
+- matplotlib==3.8.4
+- seaborn==0.13.2
+- numpy==1.26.4
+- sklearn==1.4.2 
 
-```
-Examples here
-```
-
-### Installation
-
-Step by step explanation of how to get a dev environment running.
-
-List out the steps
-
-```
-Give an example here
-```
-
-## Testing
-
-Explain the steps needed to run any automated tests
-
-### Break Down Tests
-
-Explain what each test does and why
-
-```
-Examples here
-```
-
-## Project Instructions
-
-This section should contain all the student deliverables for this project.
-
-## Built With
-
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
-
-Include all items used to build project.
 
 ## License
 
