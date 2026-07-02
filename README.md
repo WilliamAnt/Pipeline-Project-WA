@@ -1,4 +1,4 @@
-# Udacity Pipeline Project
+# Udacity Pipeline Project William Anthony
 
 The goal of this project is to develop a model that analyzes customer review data—including review text, customer age, product category, and other relevant features—to predict whether a customer would recommend a product. The project leverages machine learning pipelines to integrate and process numerical, categorical, and textual data, enabling accurate recommendation predictions.
 
@@ -15,10 +15,11 @@ The following python libraries were using in this project
 
 ## File Description
 
-- Udacity-Project One/ World Bank Data Life vs Exp Final2.ipynbFile  Jupyiter Notebook containing data analysis
-- Udacity-Project One/ WBDATA_10  Excel File containing data used for analysis
-- Link to Blog Post on Medium: https://medium.com/@william.anthony_2118/does-money-buy-more-years-after-60-a-global-look-54811777acbe
-
+- Pipeline-Project-WA/PipelineProject_WA.ipynbFile  Jupyiter Notebook containing data analysis of review data.
+- Pipeline-Project-WA/reviews.csv Excel File containing StyleSense review data used for analysis.
+- Pipeline-Project-WA/LICENSE.txt  2012-2020 Udacity license
+- Pipeline-Project-WA/requirements.txt  List the requirements to run code in the PipelineProject_WA Jupyiter Notebook.
+-
 
 ## License
 
