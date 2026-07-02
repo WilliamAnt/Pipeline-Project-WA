@@ -15,7 +15,7 @@ The following python libraries were using in this project
 
 ## File Description
 
-- Pipeline-Project-WA/PipelineProject_WA.ipynbFile  Jupyiter Notebook containing data analysis of review data.
+- Pipeline-Project-WA/PipelineProject_WA.ipynb  Jupyiter Notebook file containing data analysis of review data.
 - Pipeline-Project-WA/reviews.csv Excel File containing StyleSense review data used for analysis.
 - Pipeline-Project-WA/LICENSE.txt  2012-2020 Udacity license
 - Pipeline-Project-WA/requirements.txt  List the requirements to run code in the PipelineProject_WA Jupyiter Notebook.
